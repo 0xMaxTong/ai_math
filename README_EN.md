@@ -1,0 +1,13 @@
+MathStepMath – Official Technical Support (Exclusive to App Store)
+Welcome to the official technical support page for MathStepMath, which is also presented on our App Store product listing. MathStepMath is a math learning and practice assistant tailor-made for elementary school students. Focused on AI-generated custom exercises and personalized training, it helps children steadily boost their math skills.
+Should you run into any technical issues, have improvement suggestions, or require assistance during use, please contact us via the official channels listed below. We will send you a professional reply within 1–3 business days to deliver a seamless experience for you and your child.
+1. Official Support Channels (Must Read)
+To accelerate problem troubleshooting, we suggest providing the following supplementary details when submitting feedback (all optional): your child’s grade, device model, iOS system version, app version, a full description of the issue, and relevant screenshots. This allows our team to locate and resolve problems much faster.
+Official Support Email: tongqingchao@msn.com (Preferred channel for the fastest response)
+Support Service Hours: Monday to Friday, 9:00–18:00 (Replies will be postponed on statutory public holidays)
+WeChat Support: Follow our WeChat Official Account MathStepMath Parent Assistant, then tap "Contact Customer Service" in the menu bar for online consultation.
+2. Privacy & Security Statement
+MathStepMath fully complies with the Provisions on the Protection of Personal Information of Minors Online as well as App Store privacy requirements, and we attach top priority to safeguarding children’s personal privacy and data security. We never collect irrelevant personal data. All learning records are only used to optimize app functions, and all data is stored with full encryption to guarantee information safety. The complete privacy policy can be found in the app under My Page > About Us.
+3. About MathStepMath
+MathStepMath is an educational application focusing on math enlightenment and targeted practice for elementary learners. Its core features include AI intelligent question generation, personalized practice sets, and wrong-question analysis, helping children practice math easily and grasp knowledge thoroughly. Guided by our core philosophy of "Accompany children to learn efficiently", we keep iterating and upgrading the product to bring kids a premium learning experience.
+Thank you for choosing MathStepMath! This page serves as the official technical support hub for App Store users. If you encounter any difficulties while using the app, feel free to reach out through the above channels — we will wholeheartedly support you and your child.
